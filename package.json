@@ -1,0 +1,16 @@
+{
+  "name": "vulnerable-pipeline-benchmark",
+  "version": "1.0.0",
+  "description": "Dummy Node.js application for testing Trivy and LLM reachability analysis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5"
+  }
+}
+
